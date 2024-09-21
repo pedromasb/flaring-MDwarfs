@@ -1,6 +1,6 @@
 # flaring-MDwarfs
 
-This repository contains the data for the reduced spectra and the necessary code to easily reproduce the figures (for the results section) presented in Mas-Buitrago et al. 2024
+This repository contains the data for the reduced spectra and the necessary code to easily reproduce the figures (for the results section) presented in Mas-Buitrago et al. 2024.
 
 #
 
